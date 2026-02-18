@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Rabin. I help turn data and backend systems into reliable, production ready solutions: live trading analytics, data pipelines, ML models for sports (like NHL and MLB game outcome prediction), and credit risk insights.
+Hi, I'm Rabin. I help turn data and backend systems into reliable, production ready solutions: ML models (especially in sports), live trading analytics, data pipelines, and financial insights.
 
 I care about building things that actually work in production: modular architectures, clear data flows, and analytics that support real decisions. With a mix of software development (Python, R, SQL) and statistical/risk analysis from my time in fintech and now a Master of Data Science at UBC, I like bridging clean engineering with data-driven outcomes.
 
@@ -8,13 +8,13 @@ My background includes a Master of Data Science (expected 2026) from the Univers
 
 **What I Work On:**
 
-- **Backend & data pipelines** — Building and maintaining production services and pipelines that power analytics and reporting
 - **Data transformation & analytics** — Turning large datasets into clear insights, dashboards, and reports
 - **Machine learning** — From feature engineering and model selection to evaluation and interpretation in real-world contexts
+- **Backend & data pipelines** — Building and maintaining production services and pipelines that power analytics and reporting
 - **Automation & tooling** — Scripts, packages, and workflows that make repetitive tasks reliable and repeatable
 - **Evidence-driven decisions** — Using data, testing, and clear metrics to guide what we build and how we improve
 
-Always happy to connect and chat about data, backend systems, ML, or grab a coffee. Outside of work, my interests are sports and finance.
+Always happy to connect and chat about data, ML, backend systems, or sports.
 
 ---
 
